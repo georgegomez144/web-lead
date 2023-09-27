@@ -16,49 +16,39 @@
       "ip": "ip",
       "assessmentReason": "assessmentReason",
       "rating": 2,
-      "id": {
-        "nid": 23493,
-        "sid": "",
-        "uuid": {"value": ""}
-      }
+      "id": 23493
     }
   ,
   "accountExecutives": [
   {
-    "id": {
-      "nid": "41334"
-    },
-    "name": "Person 1"
+    "id": 41334
+    "firstName": "Person 1",
+    "lastName": "last",
   },
   {
-    "id": {
-      "nid": "12351"
-    },
-    "name": "Person 2"
+    "id": 12351
+    "firstName": "Person 2",
+    "lastName": "last",
   },
   {
-    "id": {
-      "nid": "23562"
-    },
-    "name": "Person 3"
+    "id": 23562
+    "firstName": "Person 3",
+    "lastName": "last",
   },
   {
-    "id": {
-      "nid": "76432"
-    },
-    "name": "Person 4"
+    "id": 76432
+    "firstName": "Person 4",
+    "lastName": "last",
   },
   {
-    "id": {
-      "nid": "98171"
-    },
-    "name": "Person 5"
+    "id": 98171,
+    "firstName": "Person 5",
+    "lastName": "last",
   },
   {
-    "id": {
-      "nid": "68433"
-    },
-    "name": "Person 6"
+    "id": 68433,,
+    "firstName": "Person 6",
+    "lastName": "last",
   }
 ],
   "assignLead": {}
