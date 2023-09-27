@@ -1,5 +1,5 @@
 {
-  "leads": [
+  "leads": 
     {
       "companyName": "companyName",
       "leadName": "leadName",
@@ -22,7 +22,7 @@
         "uuid": {"value": ""}
       }
     }
-  ],
+  ,
   "accountExecutives": [
   {
     "id": {
