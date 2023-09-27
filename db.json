@@ -1,20 +1,64 @@
-[
+{
+  "leads": [
+    {
+      "companyName": "companyName",
+      "leadName": "leadName",
+      "phone": 2676362559,
+      "email": "email",
+      "companyWebsite": "companyWebsite",
+      "companyDescription": "companyDescription",
+      "campaignName": "campaignName",
+      "utmSource": "utmSource",
+      "servicesNeeded": "servicesNeeded",
+      "contactedFrom": "contactedFrom",
+      "gclId": "gclId",
+      "gmcrefid": "gmcrefid",
+      "ip": "ip",
+      "assessmentReason": "assessmentReason",
+      "rating": 2,
+      "id": {
+        "nid": 23493,
+        "sid": "",
+        "uuid": {"value": ""}
+      }
+    }
+  ],
+  "accountExecutives": [
   {
-    "companyName": "companyName",
-    "leadName": "leadName",
-    "phone": 2676362559,
-    "email": "email",
-    "companyWebsite": "companyWebsite",
-    "companyDescription": "companyDescription",
-    "campaignName": "campaignName",
-    "utmSource": "utmSource",
-    "servicesNeeded": "servicesNeeded",
-    "contactedFrom": "contactedFrom",
-    "gclId": "gclId",
-    "gmcrefid": "gmcrefid",
-    "ip": "ip",
-    "assessmentReason": "assessmentReason",
-    "rating": 2,
-    "id": ""
+    "id": {
+      "nid": "41334"
+    },
+    "name": "Person 1"
+  },
+  {
+    "id": {
+      "nid": "12351"
+    },
+    "name": "Person 2"
+  },
+  {
+    "id": {
+      "nid": "23562"
+    },
+    "name": "Person 3"
+  },
+  {
+    "id": {
+      "nid": "76432"
+    },
+    "name": "Person 4"
+  },
+  {
+    "id": {
+      "nid": "98171"
+    },
+    "name": "Person 5"
+  },
+  {
+    "id": {
+      "nid": "68433"
+    },
+    "name": "Person 6"
   }
 ]
+}
