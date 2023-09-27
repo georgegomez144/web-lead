@@ -1,5 +1,5 @@
 {
-  "lead": 
+  "lead": [
     {
       "companyName": "companyName",
       "leadName": "leadName",
@@ -18,7 +18,7 @@
       "rating": 2,
       "id": 23493
     }
-  ,
+  ],
   "accountExecutives": [
   {
     "id": 41334
