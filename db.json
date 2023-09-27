@@ -1,4 +1,4 @@
-{
+[{
   "leads": [
     {
       "companyName": "companyName",
@@ -51,4 +51,4 @@
       "lastName": "last"
     }
   ]
-}
+}]
