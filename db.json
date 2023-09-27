@@ -51,5 +51,6 @@
       "firstName": "Person 6",
       "lastName": "last"
     }
-  ]
+  ],
+  "assignLead": {}
 }
