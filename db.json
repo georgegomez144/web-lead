@@ -52,5 +52,28 @@
       "lastName": "last"
     }
   ],
-  "assignLead": {}
+  "assignLead": {
+    "id": 23493,
+    "companyName": "Abby's affordable house cleaning,Phila.,",
+    "leadName": "Abby Kaminski",
+    "phone": "2676362559",
+    "email": "abbyk944@gmail.com",
+    "companyWebsite": "Abby's affordable house cleaning,Phila.,",
+    "companyDescription": "I've been cleaning homes for over 10 years now,and my customers say i do great work at a low price,i will clean your entire home just like i clean my own home.",
+    "campaignName": "",
+    "utmSource": "",
+    "utmMedium": "",
+    "servicesNeeded": "Till the end of August i will beat anyone else's prices",
+    "contactedFrom": "/create-account-step-1/index.html",
+    "gclId": "",
+    "gmcrefid": "121b19f0-9f27-4c09-b3b0-4003693d594a",
+    "ip": "76.98.206.166, 34.110.193.133",
+    "assessmentReason": "VALID",
+    "rating": "0",
+    "assignedAe": {
+      "id": 41334,
+      "firstName": "Person 1",
+      "lastName": "last"
+    }
+  }
 }
