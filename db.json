@@ -1,0 +1,20 @@
+[
+  {
+    "companyName": "companyName",
+    "leadName": "leadName",
+    "phone": 2676362559,
+    "email": "email",
+    "companyWebsite": "companyWebsite",
+    "companyDescription": "companyDescription",
+    "campaignName": "campaignName",
+    "utmSource": "utmSource",
+    "servicesNeeded": "servicesNeeded",
+    "contactedFrom": "contactedFrom",
+    "gclId": "gclId",
+    "gmcrefid": "gmcrefid",
+    "ip": "ip",
+    "assessmentReason": "assessmentReason",
+    "rating": 2,
+    "id": ""
+  }
+]
