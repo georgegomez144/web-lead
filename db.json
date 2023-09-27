@@ -10,6 +10,7 @@
         "companyDescription": "companyDescription",
         "campaignName": "campaignName",
         "utmSource": "utmSource",
+        "utmMedium": "",
         "servicesNeeded": "servicesNeeded",
         "contactedFrom": "contactedFrom",
         "gclId": "gclId",
