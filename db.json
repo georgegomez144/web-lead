@@ -52,5 +52,6 @@
       "lastName": "last"
     }
   ],
-  "assignLead": {}
+  "assignLead": {},
+  "markAsSpam": {}
 }
